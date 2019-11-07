@@ -1,0 +1,17 @@
+C:\Users\Avery\Source\Repos\GenericRPG_TeamMagenta\Implementation\GenericRPG\bin\Debug\Resources\levelup.wav
+C:\Users\Avery\Source\Repos\GenericRPG_TeamMagenta\Implementation\GenericRPG\bin\Debug\Resources\level.txt
+C:\Users\Avery\Source\Repos\GenericRPG_TeamMagenta\Implementation\GenericRPG\bin\Debug\GenericRPG.exe.config
+C:\Users\Avery\Source\Repos\GenericRPG_TeamMagenta\Implementation\GenericRPG\bin\Debug\GenericRPG.exe
+C:\Users\Avery\Source\Repos\GenericRPG_TeamMagenta\Implementation\GenericRPG\bin\Debug\GenericRPG.pdb
+C:\Users\Avery\Source\Repos\GenericRPG_TeamMagenta\Implementation\GenericRPG\bin\Debug\GameLibrary.dll
+C:\Users\Avery\Source\Repos\GenericRPG_TeamMagenta\Implementation\GenericRPG\bin\Debug\GameLibrary.pdb
+C:\Users\Avery\Source\Repos\GenericRPG_TeamMagenta\Implementation\GenericRPG\obj\Debug\GenericRPG.csprojAssemblyReference.cache
+C:\Users\Avery\Source\Repos\GenericRPG_TeamMagenta\Implementation\GenericRPG\obj\Debug\GenericRPG.FrmArena.resources
+C:\Users\Avery\Source\Repos\GenericRPG_TeamMagenta\Implementation\GenericRPG\obj\Debug\GenericRPG.FrmGameOver.resources
+C:\Users\Avery\Source\Repos\GenericRPG_TeamMagenta\Implementation\GenericRPG\obj\Debug\GenericRPG.FrmLevelUp.resources
+C:\Users\Avery\Source\Repos\GenericRPG_TeamMagenta\Implementation\GenericRPG\obj\Debug\GenericRPG.FrmMap.resources
+C:\Users\Avery\Source\Repos\GenericRPG_TeamMagenta\Implementation\GenericRPG\obj\Debug\GenericRPG.Properties.Resources.resources
+C:\Users\Avery\Source\Repos\GenericRPG_TeamMagenta\Implementation\GenericRPG\obj\Debug\GenericRPG.csproj.GenerateResource.cache
+C:\Users\Avery\Source\Repos\GenericRPG_TeamMagenta\Implementation\GenericRPG\obj\Debug\GenericRPG.csproj.CopyComplete
+C:\Users\Avery\Source\Repos\GenericRPG_TeamMagenta\Implementation\GenericRPG\obj\Debug\GenericRPG.exe
+C:\Users\Avery\Source\Repos\GenericRPG_TeamMagenta\Implementation\GenericRPG\obj\Debug\GenericRPG.pdb

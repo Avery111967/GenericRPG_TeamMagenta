@@ -1,0 +1,5 @@
+C:\Users\Avery\Source\Repos\GenericRPG_TeamMagenta\Implementation\GameLibrary\bin\Debug\GameLibrary.dll
+C:\Users\Avery\Source\Repos\GenericRPG_TeamMagenta\Implementation\GameLibrary\bin\Debug\GameLibrary.pdb
+C:\Users\Avery\Source\Repos\GenericRPG_TeamMagenta\Implementation\GameLibrary\obj\Debug\GameLibrary.csprojAssemblyReference.cache
+C:\Users\Avery\Source\Repos\GenericRPG_TeamMagenta\Implementation\GameLibrary\obj\Debug\GameLibrary.dll
+C:\Users\Avery\Source\Repos\GenericRPG_TeamMagenta\Implementation\GameLibrary\obj\Debug\GameLibrary.pdb
